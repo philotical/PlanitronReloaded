@@ -1,0 +1,315 @@
+Planitron: Planet Button clicked: Kerbin
+Planitron: set currentBody.Name =  Kerbin
+Planitron: set currentBody.Gravity =  1
+Planitron: set currentBody.Atmos =  1
+
+Planitron: set currentBody.atmoshpereTemperatureMultiplier =  1
+Planitron: set currentBody.atmosphere =  True
+Planitron: set currentBody.atmosphereContainsOxygen =  True
+Planitron: set currentBody.atmosphereMultiplier =  1
+Planitron: set currentBody.atmosphereScaleHeight =  5
+Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.243, 0.251, 0.255, 1.000)
+Planitron: set currentBody.GeeASL =  1
+Planitron: set currentBody.gMagnitudeAtCenter =  3531600000000
+Planitron: set currentBody.gravParameter =  3531600000000
+Planitron: set currentBody.Mass =  5.29157926281091E+22
+Planitron: set currentBody.pressureMultiplier =  0
+Planitron: set currentBody.staticPressureASL =  1
+
+
+
+
+
+
+
+[LOG 13:50:38.751] Planitron: Planet Button clicked: Sun
+[LOG 13:50:38.752] Planitron: set currentBody.Name =  Sun
+[LOG 13:50:38.753] Planitron: set currentBody.Gravity =  1.7462500333786
+[LOG 13:50:38.754] Planitron: set currentBody.Atmos =  1
+[LOG 13:50:38.756] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  700
+[LOG 13:50:38.757] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:38.757] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:38.758] Planitron: set currentBody.atmosphereMultiplier =  1
+[LOG 13:50:38.758] Planitron: set currentBody.atmosphereScaleHeight =  9
+[LOG 13:50:38.759] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.000, 0.000, 0.000, 0.000)
+[LOG 13:50:38.760] Planitron: set currentBody.GeeASL =  1.7462500333786
+[LOG 13:50:38.760] Planitron: set currentBody.gMagnitudeAtCenter =  1.17233279483249E+18
+[LOG 13:50:38.762] Planitron: set currentBody.gravParameter =  1.17233279483249E+18
+[LOG 13:50:38.762] Planitron: set currentBody.Mass =  1.75656696858329E+28
+[LOG 13:50:38.763] Planitron: set currentBody.pressureMultiplier =  1000000
+[LOG 13:50:38.764] Planitron: set currentBody.staticPressureASL =  21.4599990844727
+
+[LOG 13:50:40.884] Planitron: Planet Button clicked: Kerbin
+[LOG 13:50:40.885] Planitron: set currentBody.Name =  Kerbin
+[LOG 13:50:40.886] Planitron: set currentBody.Gravity =  1
+[LOG 13:50:40.887] Planitron: set currentBody.Atmos =  1
+[LOG 13:50:40.888] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  1
+[LOG 13:50:40.889] Planitron: set currentBody.atmosphere =  True
+[LOG 13:50:40.890] Planitron: set currentBody.atmosphereContainsOxygen =  True
+[LOG 13:50:40.891] Planitron: set currentBody.atmosphereMultiplier =  1
+[LOG 13:50:40.892] Planitron: set currentBody.atmosphereScaleHeight =  5
+[LOG 13:50:40.892] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.243, 0.251, 0.255, 1.000)
+[LOG 13:50:40.893] Planitron: set currentBody.GeeASL =  1
+[LOG 13:50:40.894] Planitron: set currentBody.gMagnitudeAtCenter =  3531600000000
+[LOG 13:50:40.895] Planitron: set currentBody.gravParameter =  3531600000000
+[LOG 13:50:40.896] Planitron: set currentBody.Mass =  5.29157926281091E+22
+[LOG 13:50:40.897] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:40.898] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:42.270] Planitron: Planet Button clicked: Mun
+[LOG 13:50:42.271] Planitron: set currentBody.Name =  Mun
+[LOG 13:50:42.272] Planitron: set currentBody.Gravity =  0.165999993681908
+[LOG 13:50:42.273] Planitron: set currentBody.Atmos =  1
+[LOG 13:50:42.274] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  0
+[LOG 13:50:42.274] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:42.275] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:42.276] Planitron: set currentBody.atmosphereMultiplier =  1
+[LOG 13:50:42.277] Planitron: set currentBody.atmosphereScaleHeight =  5
+[LOG 13:50:42.278] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.000, 0.000, 0.000, 0.000)
+[LOG 13:50:42.279] Planitron: set currentBody.GeeASL =  0.165999993681908
+[LOG 13:50:42.280] Planitron: set currentBody.gMagnitudeAtCenter =  65138397520.7807
+[LOG 13:50:42.281] Planitron: set currentBody.gravParameter =  65138397520.7807
+[LOG 13:50:42.281] Planitron: set currentBody.Mass =  9.76002360215474E+20
+[LOG 13:50:42.282] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:42.283] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:43.445] Planitron: Planet Button clicked: Minmus
+[LOG 13:50:43.446] Planitron: set currentBody.Name =  Minmus
+[LOG 13:50:43.447] Planitron: set currentBody.Gravity =  0.0500000007450581
+[LOG 13:50:43.448] Planitron: set currentBody.Atmos =  1
+[LOG 13:50:43.449] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  0
+[LOG 13:50:43.450] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:43.450] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:43.451] Planitron: set currentBody.atmosphereMultiplier =  1
+[LOG 13:50:43.452] Planitron: set currentBody.atmosphereScaleHeight =  5
+[LOG 13:50:43.453] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.000, 0.000, 0.000, 0.000)
+[LOG 13:50:43.454] Planitron: set currentBody.GeeASL =  0.0500000007450581
+[LOG 13:50:43.455] Planitron: set currentBody.gMagnitudeAtCenter =  1765800026.31247
+[LOG 13:50:43.456] Planitron: set currentBody.gravParameter =  1765800026.31247
+[LOG 13:50:43.457] Planitron: set currentBody.Mass =  2.64578967083079E+19
+[LOG 13:50:43.458] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:43.459] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:44.728] Planitron: Planet Button clicked: Moho
+[LOG 13:50:44.729] Planitron: set currentBody.Name =  Moho
+[LOG 13:50:44.729] Planitron: set currentBody.Gravity =  0.275000005960464
+[LOG 13:50:44.730] Planitron: set currentBody.Atmos =  0.00999999977648258
+[LOG 13:50:44.731] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  0
+[LOG 13:50:44.732] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:44.733] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:44.734] Planitron: set currentBody.atmosphereMultiplier =  0.00999999977648258
+[LOG 13:50:44.735] Planitron: set currentBody.atmosphereScaleHeight =  2
+[LOG 13:50:44.736] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.000, 0.000, 0.000, 0.000)
+[LOG 13:50:44.737] Planitron: set currentBody.GeeASL =  0.275000005960464
+[LOG 13:50:44.738] Planitron: set currentBody.gMagnitudeAtCenter =  168609378654.509
+[LOG 13:50:44.739] Planitron: set currentBody.gravParameter =  168609378654.509
+[LOG 13:50:44.740] Planitron: set currentBody.Mass =  2.52636168196748E+21
+[LOG 13:50:44.741] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:44.742] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:45.795] Planitron: Planet Button clicked: Eve
+[LOG 13:50:45.796] Planitron: set currentBody.Name =  Eve
+[LOG 13:50:45.797] Planitron: set currentBody.Gravity =  1.70000004768372
+[LOG 13:50:45.798] Planitron: set currentBody.Atmos =  5
+[LOG 13:50:45.798] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  1
+[LOG 13:50:45.799] Planitron: set currentBody.atmosphere =  True
+[LOG 13:50:45.800] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:45.801] Planitron: set currentBody.atmosphereMultiplier =  5
+[LOG 13:50:45.802] Planitron: set currentBody.atmosphereScaleHeight =  7
+[LOG 13:50:45.803] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.224, 0.194, 0.306, 1.000)
+[LOG 13:50:45.804] Planitron: set currentBody.GeeASL =  1.70000004768372
+[LOG 13:50:45.805] Planitron: set currentBody.gMagnitudeAtCenter =  8171730229210.87
+[LOG 13:50:45.806] Planitron: set currentBody.gravParameter =  8171730229210.87
+[LOG 13:50:45.807] Planitron: set currentBody.Mass =  1.22441268043315E+23
+[LOG 13:50:45.807] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:45.808] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:47.178] Planitron: Planet Button clicked: Duna
+[LOG 13:50:47.179] Planitron: set currentBody.Name =  Duna
+[LOG 13:50:47.180] Planitron: set currentBody.Gravity =  0.300000011920929
+[LOG 13:50:47.181] Planitron: set currentBody.Atmos =  0.200000002980232
+[LOG 13:50:47.182] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  1
+[LOG 13:50:47.183] Planitron: set currentBody.atmosphere =  True
+[LOG 13:50:47.184] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:47.185] Planitron: set currentBody.atmosphereMultiplier =  0.200000002980232
+[LOG 13:50:47.186] Planitron: set currentBody.atmosphereScaleHeight =  3
+[LOG 13:50:47.187] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.306, 0.187, 0.235, 1.000)
+[LOG 13:50:47.187] Planitron: set currentBody.GeeASL =  0.300000011920929
+[LOG 13:50:47.188] Planitron: set currentBody.gMagnitudeAtCenter =  301363211975.098
+[LOG 13:50:47.188] Planitron: set currentBody.gravParameter =  301363211975.098
+[LOG 13:50:47.189] Planitron: set currentBody.Mass =  4.51548115036107E+21
+[LOG 13:50:47.189] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:47.190] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:48.350] ResourcesRecovery: [FFFDF8A2][97.0800]: FixedUpdate
+[LOG 13:50:48.355] Planitron: Planet Button clicked: Ike
+[LOG 13:50:48.356] Planitron: set currentBody.Name =  Ike
+[LOG 13:50:48.357] Planitron: set currentBody.Gravity =  0.112000003457069
+[LOG 13:50:48.358] Planitron: set currentBody.Atmos =  1
+[LOG 13:50:48.358] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  0
+[LOG 13:50:48.359] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:48.360] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:48.361] Planitron: set currentBody.atmosphereMultiplier =  1
+[LOG 13:50:48.362] Planitron: set currentBody.atmosphereScaleHeight =  5
+[LOG 13:50:48.363] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.000, 0.000, 0.000, 0.000)
+[LOG 13:50:48.364] Planitron: set currentBody.GeeASL =  0.112000003457069
+[LOG 13:50:48.365] Planitron: set currentBody.gMagnitudeAtCenter =  18568368573.144
+[LOG 13:50:48.366] Planitron: set currentBody.gravParameter =  18568368573.144
+[LOG 13:50:48.367] Planitron: set currentBody.Mass =  2.78219487161283E+20
+[LOG 13:50:48.368] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:48.369] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:48.458] ResourcesRecovery: [FFFDF8A2][97.1380]: Update
+[LOG 13:50:49.528] Planitron: Planet Button clicked: Jool
+[LOG 13:50:49.529] Planitron: set currentBody.Name =  Jool
+[LOG 13:50:49.530] Planitron: set currentBody.Gravity =  0.800000011920929
+[LOG 13:50:49.531] Planitron: set currentBody.Atmos =  15
+[LOG 13:50:49.532] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  5
+[LOG 13:50:49.533] Planitron: set currentBody.atmosphere =  True
+[LOG 13:50:49.534] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:49.535] Planitron: set currentBody.atmosphereMultiplier =  15
+[LOG 13:50:49.536] Planitron: set currentBody.atmosphereScaleHeight =  10
+[LOG 13:50:49.536] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.075, 0.209, 0.069, 1.000)
+[LOG 13:50:49.538] Planitron: set currentBody.GeeASL =  0.800000011920929
+[LOG 13:50:49.539] Planitron: set currentBody.gMagnitudeAtCenter =  282528004209995
+[LOG 13:50:49.540] Planitron: set currentBody.gravParameter =  282528004209995
+[LOG 13:50:49.541] Planitron: set currentBody.Mass =  4.23326347332927E+24
+[LOG 13:50:49.542] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:49.543] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:50.699] Planitron: Planet Button clicked: Laythe
+[LOG 13:50:50.700] Planitron: set currentBody.Name =  Laythe
+[LOG 13:50:50.701] Planitron: set currentBody.Gravity =  0.800000011920929
+[LOG 13:50:50.702] Planitron: set currentBody.Atmos =  0.800000011920929
+[LOG 13:50:50.703] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  1
+[LOG 13:50:50.704] Planitron: set currentBody.atmosphere =  True
+[LOG 13:50:50.705] Planitron: set currentBody.atmosphereContainsOxygen =  True
+[LOG 13:50:50.706] Planitron: set currentBody.atmosphereMultiplier =  0.800000011920929
+[LOG 13:50:50.707] Planitron: set currentBody.atmosphereScaleHeight =  4
+[LOG 13:50:50.707] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.187, 0.239, 0.306, 1.000)
+[LOG 13:50:50.709] Planitron: set currentBody.GeeASL =  0.800000011920929
+[LOG 13:50:50.709] Planitron: set currentBody.gMagnitudeAtCenter =  1962000029236.08
+[LOG 13:50:50.710] Planitron: set currentBody.gravParameter =  1962000029236.08
+[LOG 13:50:50.711] Planitron: set currentBody.Mass =  2.9397663009231E+22
+[LOG 13:50:50.712] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:50.713] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:51.872] Planitron: Planet Button clicked: Vall
+[LOG 13:50:51.873] Planitron: set currentBody.Name =  Vall
+[LOG 13:50:51.873] Planitron: set currentBody.Gravity =  0.234999999403954
+[LOG 13:50:51.874] Planitron: set currentBody.Atmos =  1
+[LOG 13:50:51.875] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  0
+[LOG 13:50:51.876] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:51.876] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:51.877] Planitron: set currentBody.atmosphereMultiplier =  1
+[LOG 13:50:51.878] Planitron: set currentBody.atmosphereScaleHeight =  5
+[LOG 13:50:51.879] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.000, 0.000, 0.000, 0.000)
+[LOG 13:50:51.880] Planitron: set currentBody.GeeASL =  0.234999999403954
+[LOG 13:50:51.881] Planitron: set currentBody.gMagnitudeAtCenter =  207481499473.751
+[LOG 13:50:51.882] Planitron: set currentBody.gravParameter =  207481499473.751
+[LOG 13:50:51.883] Planitron: set currentBody.Mass =  3.10880280901635E+21
+[LOG 13:50:51.883] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:51.884] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:53.049] Planitron: Planet Button clicked: Bop
+[LOG 13:50:53.050] Planitron: set currentBody.Name =  Bop
+[LOG 13:50:53.051] Planitron: set currentBody.Gravity =  0.0599999986588955
+[LOG 13:50:53.052] Planitron: set currentBody.Atmos =  1
+[LOG 13:50:53.053] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  0
+[LOG 13:50:53.054] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:53.054] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:53.055] Planitron: set currentBody.atmosphereMultiplier =  1
+[LOG 13:50:53.056] Planitron: set currentBody.atmosphereScaleHeight =  5
+[LOG 13:50:53.057] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.000, 0.000, 0.000, 0.000)
+[LOG 13:50:53.058] Planitron: set currentBody.GeeASL =  0.0599999986588955
+[LOG 13:50:53.059] Planitron: set currentBody.gMagnitudeAtCenter =  2486834944.41491
+[LOG 13:50:53.060] Planitron: set currentBody.gravParameter =  2486834944.41491
+[LOG 13:50:53.061] Planitron: set currentBody.Mass =  3.72615364760999E+19
+[LOG 13:50:53.062] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:53.063] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:54.220] Planitron: Planet Button clicked: Tylo
+[LOG 13:50:54.221] Planitron: set currentBody.Name =  Tylo
+[LOG 13:50:54.222] Planitron: set currentBody.Gravity =  0.800000011920929
+[LOG 13:50:54.223] Planitron: set currentBody.Atmos =  1
+[LOG 13:50:54.224] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  1
+[LOG 13:50:54.225] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:54.226] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:54.227] Planitron: set currentBody.atmosphereMultiplier =  1
+[LOG 13:50:54.228] Planitron: set currentBody.atmosphereScaleHeight =  0
+[LOG 13:50:54.229] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.000, 0.000, 0.000, 1.000)
+[LOG 13:50:54.230] Planitron: set currentBody.GeeASL =  0.800000011920929
+[LOG 13:50:54.231] Planitron: set currentBody.gMagnitudeAtCenter =  2825280042099.95
+[LOG 13:50:54.232] Planitron: set currentBody.gravParameter =  2825280042099.95
+[LOG 13:50:54.232] Planitron: set currentBody.Mass =  4.23326347332927E+22
+[LOG 13:50:54.233] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:54.234] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:55.282] Planitron: Planet Button clicked: Gilly
+[LOG 13:50:55.283] Planitron: set currentBody.Name =  Gilly
+[LOG 13:50:55.284] Planitron: set currentBody.Gravity =  0.00499999988824129
+[LOG 13:50:55.285] Planitron: set currentBody.Atmos =  1
+[LOG 13:50:55.286] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  0
+[LOG 13:50:55.287] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:55.288] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:55.289] Planitron: set currentBody.atmosphereMultiplier =  1
+[LOG 13:50:55.289] Planitron: set currentBody.atmosphereScaleHeight =  5
+[LOG 13:50:55.290] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.000, 0.000, 0.000, 0.000)
+[LOG 13:50:55.291] Planitron: set currentBody.GeeASL =  0.00499999988824129
+[LOG 13:50:55.292] Planitron: set currentBody.gMagnitudeAtCenter =  8289449.81471635
+[LOG 13:50:55.293] Planitron: set currentBody.gravParameter =  8289449.81471635
+[LOG 13:50:55.294] Planitron: set currentBody.Mass =  1.24205121587E+17
+[LOG 13:50:55.295] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:55.296] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:56.350] Planitron: Planet Button clicked: Pol
+[LOG 13:50:56.351] Planitron: set currentBody.Name =  Pol
+[LOG 13:50:56.352] Planitron: set currentBody.Gravity =  0.038
+[LOG 13:50:56.353] Planitron: set currentBody.Atmos =  1
+[LOG 13:50:56.354] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  0
+[LOG 13:50:56.355] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:56.355] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:56.356] Planitron: set currentBody.atmosphereMultiplier =  1
+[LOG 13:50:56.357] Planitron: set currentBody.atmosphereScaleHeight =  5
+[LOG 13:50:56.358] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.000, 0.000, 0.000, 0.000)
+[LOG 13:50:56.359] Planitron: set currentBody.GeeASL =  0.038
+[LOG 13:50:56.360] Planitron: set currentBody.gMagnitudeAtCenter =  721702080
+[LOG 13:50:56.361] Planitron: set currentBody.gravParameter =  721702080
+[LOG 13:50:56.362] Planitron: set currentBody.Mass =  1.08136362001798E+19
+[LOG 13:50:56.363] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:56.364] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:57.842] Planitron: Planet Button clicked: Dres
+[LOG 13:50:57.843] Planitron: set currentBody.Name =  Dres
+[LOG 13:50:57.843] Planitron: set currentBody.Gravity =  0.115
+[LOG 13:50:57.844] Planitron: set currentBody.Atmos =  0.00499999988824129
+[LOG 13:50:57.845] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  0
+[LOG 13:50:57.845] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:57.846] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:57.847] Planitron: set currentBody.atmosphereMultiplier =  0.00499999988824129
+[LOG 13:50:57.847] Planitron: set currentBody.atmosphereScaleHeight =  2
+[LOG 13:50:57.848] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.000, 0.000, 0.000, 0.000)
+[LOG 13:50:57.849] Planitron: set currentBody.GeeASL =  0.115
+[LOG 13:50:57.850] Planitron: set currentBody.gMagnitudeAtCenter =  21484488600
+[LOG 13:50:57.850] Planitron: set currentBody.gravParameter =  21484488600
+[LOG 13:50:57.851] Planitron: set currentBody.Mass =  3.21913224453102E+20
+[LOG 13:50:57.852] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:57.852] Planitron: set currentBody.staticPressureASL =  1
+
+[LOG 13:50:59.021] Planitron: Planet Button clicked: Eeloo
+[LOG 13:50:59.022] Planitron: set currentBody.Name =  Eeloo
+[LOG 13:50:59.023] Planitron: set currentBody.Gravity =  0.172000005841255
+[LOG 13:50:59.024] Planitron: set currentBody.Atmos =  0.0500000007450581
+[LOG 13:50:59.025] Planitron: set currentBody.atmoshpereTemperatureMultiplier =  1
+[LOG 13:50:59.025] Planitron: set currentBody.atmosphere =  False
+[LOG 13:50:59.026] Planitron: set currentBody.atmosphereContainsOxygen =  False
+[LOG 13:50:59.027] Planitron: set currentBody.atmosphereMultiplier =  0.0500000007450581
+[LOG 13:50:59.028] Planitron: set currentBody.atmosphereScaleHeight =  1.5
+[LOG 13:50:59.029] Planitron: set currentBody.atmosphericAmbientColor =  RGBA(0.075, 0.075, 0.075, 1.000)
+[LOG 13:50:59.030] Planitron: set currentBody.GeeASL =  0.172000005841255
+[LOG 13:50:59.031] Planitron: set currentBody.gMagnitudeAtCenter =  74410814527.0496
+[LOG 13:50:59.032] Planitron: set currentBody.gravParameter =  74410814527.0496
+[LOG 13:50:59.033] Planitron: set currentBody.Mass =  1.11493578853835E+21
+[LOG 13:50:59.034] Planitron: set currentBody.pressureMultiplier =  0
+[LOG 13:50:59.035] Planitron: set currentBody.staticPressureASL =  1
+
