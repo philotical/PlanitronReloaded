@@ -224,7 +224,10 @@ namespace Philotical
             */
             if (FlightGlobals.ready)
             {
-                Debug.Log("Planitron: FlightGlobals are valid now. Activating Button");
+                if ((Time.time - lastUpdate) > logInterval)
+                {
+                    Debug.Log("Planitron: FlightGlobals are valid now. Activating Button");
+                }
                 PlanitronbuttonState = true;
             }
             if (FlightGlobals.ready && !PlanitronWindowState && !PlanitronbuttonState)
